@@ -1,4 +1,3 @@
 "SAMUEL" A,B,C,D,A,B,C,D,A,B,
 "SYLV" A,B,C,D,A,B,C,D,A,A,
 "SAM ONG" A,A,A,A,A,A,A,A,A,A,
-"SAM ONG" A,A,A,A,A,A,A,A,A,A,
