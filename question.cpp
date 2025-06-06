@@ -54,12 +54,12 @@ int main() {
 
     ofstream file("user_input.txt", ios::app);  
 
-    file << "User: " << userName << "\n";
+    file <<"\""<< userName <<"\""<< " ";
 
     for(int j = 0; j < 10; j++) {
-        file << "Q" << (j+1) << ": " << answer[j] << "\n";
+        file << answer[j] << ",";
     }
-
+    file<<"\n";
     file.close();
 
     cout << "Your input has been saved.\n";
